@@ -118,11 +118,6 @@ there's no manual way of choosing a different language.
 To add/refine translations, [Crowdin](https://crowdin.com/project/bracket) is used.
 See the [docs](https://docs.bracketapp.nl/docs/community/contributing/#translating) for more information.
 
-# More screenshots
-<img alt="" src="docs/content/img/schedule_preview.png" width="50%" /><img alt=""
-src="docs/content/img/planning_preview.png" width="50%" /> <img alt=""
-src="docs/content/img/builder_preview.png" width="50%" /><img alt=""
-src="docs/content/img/standings_preview.png" width="50%" />
 
 # Help
 If you're having trouble getting Bracket up and running, or have a question about usage or configuration, feel free to ask.
