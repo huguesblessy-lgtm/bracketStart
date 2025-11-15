@@ -1,10 +1,4 @@
-<p align="center">
-  <img
-    width="500"
-    src="frontend/public/favicon-wide.svg"
-    alt="Bracket - Tournament System"
-  />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/evroon/bracket/actions"
